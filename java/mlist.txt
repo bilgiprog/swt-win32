@@ -1,8 +1,8 @@
 .\version.txt
-.\swt-win32-4757.dll
-.\swt-gdip-win32-4757.dll
-.\swt-awt-win32-4757.dll
-.\swt-wgl-win32-4757.dll
+.\swt-win32-4763.dll
+.\swt-gdip-win32-4763.dll
+.\swt-awt-win32-4763.dll
+.\swt-wgl-win32-4763.dll
 .\org\eclipse\swt\SWT.class
 .\org\eclipse\swt\SWTError.class
 .\org\eclipse\swt\SWTException.class
