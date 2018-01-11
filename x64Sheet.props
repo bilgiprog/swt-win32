@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
-    <JAVA_HOME>C:\Progs\Java\jdk1.8.0_141</JAVA_HOME>
+    <JAVA_HOME>C:\Progs\Java\jdk1.8.0_151</JAVA_HOME>
     <majver>4</majver>
-    <minver>757</minver>
-    <comma_ver>4,7,5,7</comma_ver>
+    <minver>763</minver>
+    <comma_ver>4,7,6,3</comma_ver>
   </PropertyGroup>
   <PropertyGroup>
     <IncludePath>$(JAVA_HOME)\include;$(JAVA_HOME)\include\win32;$(IncludePath)</IncludePath>

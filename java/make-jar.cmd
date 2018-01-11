@@ -1,4 +1,4 @@
-@set JAVA_HOME=C:\Progs\Java\jdk1.8.0_141
+@set JAVA_HOME=C:\Progs\Java\jdk1.8.0_151
 %JAVA_HOME%\bin\javac.exe @clist.txt
 %JAVA_HOME%\bin\jar.exe cfm swt.jar jarmanifest.txt @mlist.txt
 %JAVA_HOME%\bin\javac.exe -g @clist.txt
